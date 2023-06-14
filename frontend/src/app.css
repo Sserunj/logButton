@@ -1,0 +1,9 @@
+.app {
+    margin: 50px 50px;
+    padding: 20px 0px;
+}
+.title {
+    text-align: center;
+    padding: 10px;
+    font-weight: bolder;
+}
